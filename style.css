@@ -21,6 +21,11 @@ a {
     text-decoration: none;
 }
 
+img {
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
 .container {
     width: 80%;
     margin: 0 auto;
@@ -139,8 +144,6 @@ a {
     min-height: 200px;
     max-height: 500px;
     object-fit: cover;
-    border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     margin-bottom: 10px;
 }
 
